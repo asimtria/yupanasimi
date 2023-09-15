@@ -2,16 +2,14 @@
 
 main = x:allRules* { return "##miniTidal\n" + x.join("") }
 
-allRules = arpa/ 
-arpa2 /
-akllakuy /
-allillay /  
-kutipay /
-sapakutin /
-sinqawa /
+allRules = akllakuy /
+allillay / 
+kutipay / 
+sapakutin / 
+sinqawa / 
 sound /
 utqay /
-winara / 
+winara /
 hunuy / anyCharacter
 anyCharacter = .
 
@@ -20,16 +18,10 @@ anyCharacter = .
 
 akllakuy = "akllakuy"i { return " choose " }
 allillay = "allillay"i { return " slow " }
-kutipay = "kutipay"í { return " chop " }
+kutipay = "kutipay" { return " chop " }
 sapakutin = "sapakutin"i { return " every " }
 sinqawa = "sinqawa"i { return " brak " }
+sound = "u_"i {return " sound " }
 utqay = "utqay"i { return " speed " }
 winara = "winara"i { return " gain " }
 hunuy = "&" { return " $ "}
-
-
-// AUDIOS
-
-
-arpa  = "arpa"i { return " s \"arpa\" " }
-arpa2 = "arpa:2"i { return " s \"arpa:2\" " }
