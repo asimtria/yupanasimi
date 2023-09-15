@@ -222,7 +222,7 @@ patay /
 winqu /
 ruyruchiy /
 huqwichqay /
-sapa /
+sapakutin /
 tawakuchu /
 tupachiy /
 winara /
@@ -266,7 +266,7 @@ patay = "patay"i { return " ramp " }
 winqu = "winqu"i { return " sin "}
 huqwichqay = "huq wichqay"i { return " circleMask´ " }
 ruyruchiy = "ruyruchiy"i { return " circleMask " }
-sapa = "sapa"i { return " every " }
+sapakutin = "sapakutin"i { return " every " }
 tawakuchu = "tawa kuchu"i { return " sqrMask " }
 tupachiy = "tupachiy"i { return " setContrast " }
 winara = "winara"i { return " volume " }
