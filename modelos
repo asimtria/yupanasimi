@@ -1,7 +1,13 @@
 s "tarka*8" # cutoff "100 1000 2000"
 
-brak $ sound "[contrasanqa contrasanqa:3, pitu:3 pitu:2 pitu:4 pitu:1]"
+sinqawa & u_ "[contrasanqa contrasanqa:3, pitu:3 pitu:2 pitu:4 pitu:1]"
 
-slow 2 $ degrade $ sound "[[[qenilla:5*8,qenilla*3] qenilla:3*8], qenilla*4]"
+slow 2 $ degrade $ sound "[[[qenilla:5*8, qenilla*3] qenilla:3*8], qenilla*4]"
 
 stut 4 0.5 0.2 $ sound "lawata bandurria"
+
+
+//////////
+
+kutipay 4 & sinqawa & sapakutin 3 (allillay 2) & u_ "pitu:4*2 lawata:3/2" # utqay (akllakuy [0.7, 0.9, 1.2]) # winara (akllakuy [0.7, 0.9, 1.2])
+
