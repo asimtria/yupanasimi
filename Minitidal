@@ -1,4 +1,4 @@
-##JSoLang YupanaSimi
+##JSoLang S1m1
 
 main = x:allRules* { return "##miniTidal\n" + x.join("") }
 
