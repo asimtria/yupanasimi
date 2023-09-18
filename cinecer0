@@ -1,4 +1,4 @@
-##JSoLang YupanaSimi
+##JSoLang Yupana
 
 main = x:allRules* { return "##cineCer0\n" + x.join("") }
 
