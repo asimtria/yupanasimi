@@ -4,12 +4,27 @@ main = x:allRules* { return "##miniTidal\n" + x.join("") }
 
 allRules = akllakuy /
 allillay / 
+anqaylli /
+kuchuy /
+kunkahanlla /
 kutipay / 
+llinkuy /
+mayninpi /
+mayqanpas /
+muyuqawa /
+puchukay /
+qenqoy /
+qutuy /
 sapakutin / 
 sinqawa / 
-sound /
+sonido /
+taqllapayay /
+tikray /
+tustuy /
 utqay /
 winara /
+yapay /
+yupana /
 hunuy / anyCharacter
 anyCharacter = .
 
