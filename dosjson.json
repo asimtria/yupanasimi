@@ -67,5 +67,8 @@
 {"url":"tarka/166.wav","type":"audio","bank":"tarka","n":6},
 {"url":"tarka/167.wav","type":"audio","bank":"tarka","n":7},
 {"url":"tarka/168.wav","type":"audio","bank":"tarka","n":8},
-{"url":"tarka/169.wav","type":"audio","bank":"tarka","n":9}
+{"url":"tarka/169.wav","type":"audio","bank":"tarka","n":9},
+{"url":"saruy/201.wav","type":"audio","bank":"saruy","n":0},
+{"url":"saruy/202.wav","type":"audio","bank":"saruy","n":1},
+{"url":"saruy/203.wav","type":"audio","bank":"saruy","n":2}
 ]
