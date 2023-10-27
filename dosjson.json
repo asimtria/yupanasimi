@@ -70,5 +70,12 @@
 {"url":"tarka/169.wav","type":"audio","bank":"tarka","n":9},
 {"url":"saruy/201.wav","type":"audio","bank":"saruy","n":0},
 {"url":"saruy/202.wav","type":"audio","bank":"saruy","n":1},
-{"url":"saruy/203.wav","type":"audio","bank":"saruy","n":2}
+{"url":"saruy/203.wav","type":"audio","bank":"saruy","n":2},
+{"url":"awaspa/204.wav","type":"audio","bank":"awaspa","n":0},
+{"url":"yakucha/205.wav","type":"audio","bank":"yakucha","n":0},
+{"url":"yakucha/206.wav","type":"audio","bank":"yakucha","n":1},
+{"url":"yakucha/210.wav","type":"audio","bank":"yakucha","n":2},
+{"url":"karnaval/207.wav","type":"audio","bank":"karnaval","n":0},
+{"url":"karnaval/208.wav","type":"audio","bank":"karnaval","n":1},
+{"url":"urukuna/209.wav","type":"audio","bank":"urukuna","n":0}
 ]
