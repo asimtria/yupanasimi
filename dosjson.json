@@ -77,5 +77,8 @@
 {"url":"yakucha/210.wav","type":"audio","bank":"yakucha","n":2},
 {"url":"karnaval/207.wav","type":"audio","bank":"karnaval","n":0},
 {"url":"karnaval/208.wav","type":"audio","bank":"karnaval","n":1},
-{"url":"urukuna/209.wav","type":"audio","bank":"urukuna","n":0}
+{"url":"urukuna/209.wav","type":"audio","bank":"urukuna","n":0},
+{"url":"waqrapuku/211.wav","type":"audio","bank":"waqrapuku","n":0},
+{"url":"waqrapuku/212.wav","type":"audio","bank":"waqrapuku","n":1},
+{"url":"waqrapuku/213.wav","type":"audio","bank":"waqrapuku","n":2}
 ]
