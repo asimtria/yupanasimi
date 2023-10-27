@@ -80,5 +80,15 @@
 {"url":"urukuna/209.wav","type":"audio","bank":"urukuna","n":0},
 {"url":"waqrapuku/211.wav","type":"audio","bank":"waqrapuku","n":0},
 {"url":"waqrapuku/212.wav","type":"audio","bank":"waqrapuku","n":1},
-{"url":"waqrapuku/213.wav","type":"audio","bank":"waqrapuku","n":2}
+{"url":"waqrapuku/213.wav","type":"audio","bank":"waqrapuku","n":2},
+{"url":"takau/801.wav","type":"audio","bank":"takau","n":0},
+{"url":"takau/802.wav","type":"audio","bank":"takau","n":1},
+{"url":"takau/803.wav","type":"audio","bank":"takau","n":2},
+{"url":"takau/804.wav","type":"audio","bank":"takau","n":3},
+{"url":"takau/805.wav","type":"audio","bank":"takau","n":4},
+{"url":"takau/806.wav","type":"audio","bank":"takau","n":5},
+{"url":"takau/807.wav","type":"audio","bank":"takau","n":6},
+{"url":"takau/808.wav","type":"audio","bank":"takau","n":7},
+{"url":"takau/809.wav","type":"audio","bank":"takau","n":8},
+{"url":"takau/810.wav","type":"audio","bank":"takau","n":9}
 ]
